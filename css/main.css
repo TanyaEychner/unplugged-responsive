@@ -197,7 +197,7 @@ footer {
   flex-direction: column;
   align-items: center;
   text-align: center;
-  color: #202322;
+  background-color: #202322;
 }
 
 footer p {
@@ -323,7 +323,7 @@ input[type=button] {
 .reviews {
   display: flex;
   justify-content: center;
-  color: #2a423a;
+  background-color: #2a423a;
 }
 
 .reviews h2 {
