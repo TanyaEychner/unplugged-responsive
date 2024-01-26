@@ -657,7 +657,6 @@ flex-basis: 50%;
     font-size: .875em;
     line-height: 1.125em;
   }
-}
 
 @media only screen and (min-width: 1200px) {
   /* Desktop styles here */
@@ -755,8 +754,6 @@ aside .content-wrapper {
     font-size: 1.125em;
     line-height: 1em;
   }
-
-}
 
 /* ==========================================================================
    Print styles.
